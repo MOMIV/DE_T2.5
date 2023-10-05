@@ -31,5 +31,5 @@ income_fact/income_plan — отношение фактического дохо
 
 1.
 
-![Image alt](https://github.com/MOMIV/T2.4/raw/main/pic/database - public.png)
+![Image alt](https://github.com/MOMIV/T2.4/raw/main/pic/database1.png)
 
