@@ -18,7 +18,7 @@ create table if not exists plan (
 create table if not exists  shop_dns(
 	fact_date date,
 	product_id int,
-	sales_cnt real,
+	sales_cnt int,
 	FOREIGN KEY(product_id) REFERENCES products(product_id) ON DELETE CASCADE 
 );
 create table if not exists  shop_mvideo(
