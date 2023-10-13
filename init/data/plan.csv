@@ -1,301 +1,91 @@
-"product_id","shop_name","plan_cnt","plan_date"
-2,"shop_mvideo",117,"2023-08-30"
-2,"shop_sitilink",183,"2023-01-26"
-2,"shop_mvideo",92,"2023-01-26"
-1,"shop_mvideo",232,"2023-04-16"
-3,"shop_sitilink",107,"2023-09-22"
-2,"shop_mvideo",54,"2023-04-17"
-3,"shop_sitilink",74,"2023-08-21"
-2,"shop_sitilink",192,"2023-05-15"
-2,"shop_mvideo",92,"2023-04-18"
-2,"shop_mvideo",51,"2023-04-19"
-3,"shop_mvideo",235,"2023-04-05"
-2,"shop_sitilink",141,"2023-08-12"
-1,"shop_mvideo",193,"2023-09-20"
-2,"shop_dns",208,"2023-05-28"
-2,"shop_sitilink",26,"2023-08-21"
-2,"shop_dns",140,"2023-08-20"
-1,"shop_mvideo",64,"2023-05-22"
-2,"shop_sitilink",238,"2023-02-27"
-2,"shop_sitilink",207,"2023-06-11"
-2,"shop_dns",144,"2023-01-31"
-3,"shop_mvideo",70,"2023-09-10"
-3,"shop_mvideo",236,"2023-03-22"
-1,"shop_mvideo",242,"2023-09-06"
-3,"shop_sitilink",68,"2023-01-24"
-2,"shop_mvideo",111,"2023-07-12"
-3,"shop_sitilink",46,"2023-07-22"
-3,"shop_sitilink",87,"2023-03-13"
-2,"shop_sitilink",215,"2023-04-04"
-2,"shop_dns",39,"2023-08-06"
-1,"shop_sitilink",230,"2023-09-25"
-2,"shop_sitilink",128,"2023-05-26"
-2,"shop_dns",206,"2023-03-14"
-2,"shop_sitilink",144,"2023-07-26"
-3,"shop_dns",166,"2023-09-01"
-2,"shop_dns",242,"2023-01-14"
-1,"shop_dns",115,"2023-02-01"
-2,"shop_sitilink",39,"2023-09-05"
-2,"shop_mvideo",26,"2023-01-06"
-1,"shop_dns",142,"2023-07-06"
-1,"shop_dns",213,"2023-10-06"
-1,"shop_dns",104,"2023-06-19"
-1,"shop_dns",55,"2023-08-28"
-2,"shop_sitilink",237,"2023-01-20"
-2,"shop_dns",73,"2023-06-04"
-2,"shop_dns",20,"2023-07-07"
-2,"shop_dns",150,"2023-04-22"
-3,"shop_dns",156,"2023-01-22"
-1,"shop_dns",161,"2023-09-18"
-3,"shop_sitilink",198,"2023-06-17"
-2,"shop_mvideo",49,"2023-05-26"
-2,"shop_sitilink",212,"2023-08-12"
-1,"shop_dns",94,"2023-09-12"
-3,"shop_mvideo",92,"2023-01-16"
-2,"shop_sitilink",140,"2023-02-09"
-1,"shop_dns",211,"2023-02-20"
-2,"shop_dns",69,"2023-06-15"
-2,"shop_sitilink",118,"2023-09-27"
-2,"shop_sitilink",210,"2023-03-08"
-3,"shop_sitilink",165,"2023-03-06"
-1,"shop_dns",129,"2023-05-19"
-3,"shop_mvideo",155,"2023-04-23"
-2,"shop_dns",147,"2023-07-19"
-2,"shop_dns",230,"2023-05-21"
-1,"shop_dns",23,"2023-04-07"
-2,"shop_mvideo",106,"2023-08-17"
-1,"shop_dns",61,"2023-08-23"
-1,"shop_mvideo",137,"2023-07-04"
-1,"shop_dns",213,"2023-08-25"
-2,"shop_sitilink",127,"2023-08-18"
-2,"shop_mvideo",125,"2023-04-24"
-1,"shop_dns",87,"2023-05-29"
-1,"shop_dns",189,"2023-03-29"
-2,"shop_sitilink",161,"2023-09-24"
-2,"shop_mvideo",92,"2023-05-22"
-2,"shop_mvideo",103,"2023-09-19"
-2,"shop_mvideo",195,"2023-01-03"
-2,"shop_sitilink",179,"2023-04-15"
-3,"shop_mvideo",133,"2023-01-01"
-3,"shop_mvideo",27,"2023-09-12"
-1,"shop_dns",33,"2023-03-11"
-1,"shop_mvideo",47,"2023-03-20"
-3,"shop_mvideo",118,"2023-07-02"
-3,"shop_mvideo",53,"2023-02-23"
-2,"shop_mvideo",20,"2023-01-31"
-3,"shop_sitilink",81,"2023-09-24"
-1,"shop_mvideo",72,"2023-06-08"
-1,"shop_dns",123,"2023-06-08"
-1,"shop_sitilink",159,"2023-05-03"
-2,"shop_sitilink",132,"2023-09-25"
-2,"shop_mvideo",200,"2023-01-09"
-3,"shop_dns",47,"2023-02-28"
-1,"shop_dns",188,"2023-08-05"
-2,"shop_sitilink",97,"2023-05-19"
-3,"shop_dns",83,"2023-02-04"
-3,"shop_sitilink",154,"2023-02-14"
-1,"shop_mvideo",99,"2023-08-22"
-3,"shop_dns",66,"2023-01-02"
-2,"shop_dns",146,"2023-05-24"
-2,"shop_mvideo",27,"2023-05-25"
-3,"shop_dns",34,"2023-01-10"
-3,"shop_mvideo",94,"2023-03-30"
-1,"shop_sitilink",173,"2023-08-09"
-3,"shop_dns",235,"2023-09-22"
-2,"shop_mvideo",67,"2023-01-30"
-3,"shop_mvideo",22,"2023-09-05"
-1,"shop_mvideo",151,"2023-05-18"
-2,"shop_mvideo",128,"2023-04-29"
-2,"shop_mvideo",115,"2023-04-02"
-2,"shop_dns",22,"2023-09-14"
-1,"shop_sitilink",81,"2023-05-19"
-2,"shop_mvideo",246,"2023-07-30"
-2,"shop_dns",244,"2023-05-14"
-2,"shop_dns",218,"2023-08-08"
-3,"shop_dns",249,"2023-01-03"
-2,"shop_mvideo",96,"2023-06-08"
-2,"shop_sitilink",146,"2023-05-22"
-2,"shop_sitilink",135,"2023-03-19"
-2,"shop_mvideo",206,"2023-08-08"
-2,"shop_sitilink",173,"2023-06-30"
-1,"shop_dns",163,"2023-08-10"
-1,"shop_sitilink",96,"2023-07-01"
-2,"shop_mvideo",239,"2023-03-04"
-2,"shop_mvideo",149,"2023-08-31"
-2,"shop_sitilink",173,"2023-06-10"
-2,"shop_mvideo",46,"2023-06-07"
-3,"shop_sitilink",122,"2023-04-06"
-2,"shop_sitilink",62,"2023-04-04"
-1,"shop_sitilink",149,"2023-09-15"
-2,"shop_sitilink",136,"2023-05-12"
-2,"shop_dns",33,"2023-05-10"
-2,"shop_mvideo",121,"2023-08-08"
-2,"shop_sitilink",60,"2023-07-31"
-2,"shop_dns",136,"2023-06-01"
-2,"shop_sitilink",49,"2023-07-12"
-2,"shop_sitilink",37,"2023-07-27"
-2,"shop_mvideo",55,"2023-03-24"
-1,"shop_mvideo",197,"2023-08-04"
-1,"shop_sitilink",184,"2023-01-17"
-2,"shop_sitilink",23,"2023-04-12"
-3,"shop_dns",147,"2023-03-30"
-1,"shop_mvideo",62,"2023-05-25"
-2,"shop_sitilink",31,"2023-05-02"
-1,"shop_sitilink",90,"2023-06-17"
-2,"shop_dns",175,"2023-02-01"
-3,"shop_sitilink",183,"2023-02-05"
-2,"shop_mvideo",129,"2023-08-23"
-3,"shop_sitilink",211,"2023-05-13"
-2,"shop_sitilink",163,"2023-07-18"
-1,"shop_mvideo",165,"2023-06-27"
-2,"shop_dns",63,"2023-02-01"
-2,"shop_mvideo",107,"2023-06-27"
-2,"shop_sitilink",116,"2023-05-09"
-3,"shop_mvideo",138,"2023-04-22"
-1,"shop_dns",207,"2023-01-03"
-3,"shop_dns",225,"2023-03-26"
-2,"shop_mvideo",147,"2023-08-09"
-2,"shop_sitilink",219,"2023-06-18"
-2,"shop_dns",161,"2023-08-13"
-3,"shop_dns",116,"2023-02-03"
-2,"shop_mvideo",87,"2023-02-23"
-3,"shop_mvideo",82,"2023-08-12"
-2,"shop_dns",75,"2023-09-19"
-2,"shop_mvideo",53,"2023-03-10"
-2,"shop_mvideo",181,"2023-06-30"
-2,"shop_dns",133,"2023-04-09"
-3,"shop_dns",53,"2023-03-09"
-2,"shop_dns",120,"2023-09-02"
-2,"shop_dns",228,"2023-05-11"
-1,"shop_dns",104,"2023-03-24"
-2,"shop_sitilink",137,"2023-01-21"
-2,"shop_dns",55,"2023-08-24"
-3,"shop_mvideo",160,"2023-09-15"
-2,"shop_mvideo",212,"2023-08-04"
-2,"shop_dns",162,"2023-05-28"
-2,"shop_sitilink",28,"2023-07-06"
-2,"shop_sitilink",117,"2023-09-05"
-2,"shop_mvideo",127,"2023-03-15"
-2,"shop_mvideo",163,"2023-05-07"
-2,"shop_dns",64,"2023-05-11"
-1,"shop_sitilink",59,"2023-01-16"
-2,"shop_dns",55,"2023-02-10"
-2,"shop_dns",43,"2023-08-13"
-2,"shop_dns",245,"2023-08-04"
-3,"shop_sitilink",63,"2023-05-07"
-2,"shop_mvideo",174,"2023-04-19"
-2,"shop_sitilink",158,"2023-09-07"
-2,"shop_sitilink",67,"2023-02-21"
-1,"shop_mvideo",171,"2023-09-09"
-2,"shop_dns",166,"2023-09-17"
-2,"shop_mvideo",85,"2023-09-14"
-2,"shop_sitilink",87,"2023-10-02"
-2,"shop_dns",215,"2023-02-28"
-2,"shop_dns",47,"2023-06-27"
-2,"shop_sitilink",212,"2023-01-03"
-2,"shop_dns",196,"2023-05-20"
-2,"shop_mvideo",63,"2023-02-02"
-3,"shop_sitilink",159,"2023-07-26"
-2,"shop_mvideo",125,"2023-03-10"
-2,"shop_dns",53,"2023-09-18"
-1,"shop_mvideo",72,"2023-06-14"
-1,"shop_sitilink",248,"2023-05-29"
-2,"shop_mvideo",80,"2023-03-02"
-2,"shop_sitilink",44,"2023-03-23"
-2,"shop_sitilink",107,"2023-05-20"
-2,"shop_sitilink",105,"2023-07-15"
-3,"shop_dns",55,"2023-07-01"
-3,"shop_mvideo",56,"2023-06-08"
-1,"shop_mvideo",157,"2023-05-30"
-3,"shop_mvideo",78,"2023-06-18"
-2,"shop_mvideo",183,"2023-06-21"
-1,"shop_dns",148,"2023-02-06"
-1,"shop_mvideo",218,"2023-03-26"
-2,"shop_mvideo",20,"2023-02-01"
-3,"shop_dns",85,"2023-08-04"
-2,"shop_mvideo",42,"2023-07-13"
-3,"shop_sitilink",198,"2023-02-27"
-2,"shop_sitilink",192,"2023-03-26"
-2,"shop_dns",207,"2023-10-05"
-2,"shop_mvideo",106,"2023-09-06"
-3,"shop_sitilink",240,"2023-02-16"
-1,"shop_dns",142,"2023-03-29"
-1,"shop_dns",188,"2023-06-02"
-2,"shop_mvideo",230,"2023-02-14"
-2,"shop_dns",115,"2023-08-04"
-2,"shop_mvideo",70,"2023-05-16"
-2,"shop_dns",166,"2023-06-22"
-2,"shop_dns",135,"2023-02-14"
-2,"shop_sitilink",207,"2023-05-03"
-1,"shop_dns",173,"2023-05-02"
-1,"shop_dns",91,"2023-04-21"
-2,"shop_dns",181,"2023-03-02"
-3,"shop_dns",42,"2023-01-25"
-2,"shop_sitilink",94,"2023-06-21"
-2,"shop_dns",43,"2023-07-23"
-3,"shop_sitilink",188,"2023-06-03"
-2,"shop_dns",77,"2023-10-06"
-2,"shop_sitilink",134,"2023-06-19"
-3,"shop_sitilink",194,"2023-04-05"
-3,"shop_dns",154,"2023-04-12"
-2,"shop_mvideo",145,"2023-03-01"
-2,"shop_sitilink",217,"2023-09-08"
-2,"shop_sitilink",42,"2023-06-04"
-1,"shop_sitilink",108,"2023-04-01"
-1,"shop_sitilink",87,"2023-09-26"
-2,"shop_dns",141,"2023-08-02"
-2,"shop_dns",58,"2023-06-14"
-2,"shop_dns",83,"2023-09-01"
-3,"shop_dns",232,"2023-06-25"
-3,"shop_mvideo",248,"2023-03-06"
-3,"shop_dns",37,"2023-05-17"
-2,"shop_mvideo",123,"2023-07-05"
-3,"shop_sitilink",202,"2023-05-29"
-1,"shop_dns",204,"2023-09-24"
-1,"shop_dns",235,"2023-08-12"
-2,"shop_sitilink",98,"2023-09-01"
-3,"shop_sitilink",103,"2023-05-14"
-3,"shop_sitilink",239,"2023-02-27"
-3,"shop_dns",29,"2023-06-19"
-2,"shop_sitilink",110,"2023-07-25"
-3,"shop_dns",68,"2023-04-16"
-2,"shop_sitilink",173,"2023-07-28"
-2,"shop_mvideo",227,"2023-09-02"
-2,"shop_sitilink",36,"2023-08-06"
-2,"shop_dns",198,"2023-09-15"
-2,"shop_mvideo",140,"2023-06-02"
-2,"shop_sitilink",115,"2023-07-30"
-2,"shop_sitilink",179,"2023-06-16"
-3,"shop_sitilink",45,"2023-06-06"
-2,"shop_sitilink",101,"2023-08-16"
-1,"shop_sitilink",139,"2023-05-17"
-2,"shop_dns",23,"2023-06-01"
-2,"shop_mvideo",232,"2023-01-20"
-2,"shop_sitilink",58,"2023-02-10"
-2,"shop_sitilink",127,"2023-06-18"
-2,"shop_sitilink",49,"2023-03-11"
-3,"shop_sitilink",209,"2023-09-18"
-2,"shop_dns",151,"2023-02-11"
-2,"shop_dns",137,"2023-01-14"
-3,"shop_sitilink",197,"2023-08-27"
-3,"shop_dns",23,"2023-10-06"
-1,"shop_mvideo",144,"2023-06-03"
-2,"shop_mvideo",174,"2023-08-27"
-3,"shop_dns",222,"2023-06-24"
-2,"shop_dns",153,"2023-07-03"
-3,"shop_dns",215,"2023-09-28"
-2,"shop_dns",79,"2023-04-28"
-3,"shop_mvideo",63,"2023-06-26"
-2,"shop_sitilink",247,"2023-01-28"
-1,"shop_dns",97,"2023-04-05"
-2,"shop_sitilink",58,"2023-07-26"
-1,"shop_sitilink",38,"2023-05-31"
-1,"shop_mvideo",81,"2023-04-16"
-2,"shop_dns",91,"2023-07-26"
-3,"shop_sitilink",243,"2023-05-27"
-2,"shop_sitilink",176,"2023-08-11"
-1,"shop_sitilink",146,"2023-07-17"
-1,"shop_dns",135,"2023-03-26"
-2,"shop_dns",77,"2023-05-28"
-2,"shop_dns",162,"2023-06-27"
-1,"shop_mvideo",149,"2023-02-28"
+product_id,shop_name,plan_cnt,month
+1,shop_dns,207,31.01.2023 0:00
+1,shop_mvideo,102,31.01.2023 0:00
+1,shop_sitilink,243,31.01.2023 0:00
+2,shop_dns,523,31.01.2023 0:00
+2,shop_mvideo,832,31.01.2023 0:00
+2,shop_sitilink,1016,31.01.2023 0:00
+3,shop_dns,547,31.01.2023 0:00
+3,shop_mvideo,225,31.01.2023 0:00
+3,shop_sitilink,68,31.01.2023 0:00
+1,shop_dns,474,28.02.2023 0:00
+1,shop_mvideo,149,28.02.2023 0:00
+1,shop_sitilink,205,28.02.2023 0:00
+2,shop_dns,794,28.02.2023 0:00
+2,shop_mvideo,400,28.02.2023 0:00
+2,shop_sitilink,503,28.02.2023 0:00
+3,shop_dns,246,28.02.2023 0:00
+3,shop_mvideo,53,28.02.2023 0:00
+3,shop_sitilink,1014,28.02.2023 0:00
+1,shop_dns,603,31.03.2023 0:00
+1,shop_mvideo,265,31.03.2023 0:00
+1,shop_sitilink,300,31.03.2023 0:00
+2,shop_dns,387,31.03.2023 0:00
+2,shop_mvideo,824,31.03.2023 0:00
+2,shop_sitilink,630,31.03.2023 0:00
+3,shop_dns,425,31.03.2023 0:00
+3,shop_mvideo,578,31.03.2023 0:00
+3,shop_sitilink,252,31.03.2023 0:00
+1,shop_dns,211,30.04.2023 0:00
+1,shop_mvideo,313,30.04.2023 0:00
+1,shop_sitilink,108,30.04.2023 0:00
+2,shop_dns,362,30.04.2023 0:00
+2,shop_mvideo,739,30.04.2023 0:00
+2,shop_sitilink,479,30.04.2023 0:00
+3,shop_dns,222,30.04.2023 0:00
+3,shop_mvideo,528,30.04.2023 0:00
+3,shop_sitilink,316,30.04.2023 0:00
+1,shop_dns,389,31.05.2023 0:00
+1,shop_mvideo,434,31.05.2023 0:00
+1,shop_sitilink,665,31.05.2023 0:00
+2,shop_dns,1588,31.05.2023 0:00
+2,shop_mvideo,401,31.05.2023 0:00
+2,shop_sitilink,1160,31.05.2023 0:00
+3,shop_dns,37,31.05.2023 0:00
+3,shop_mvideo,25,31.05.2023 0:00
+3,shop_sitilink,822,31.05.2023 0:00
+1,shop_dns,415,30.06.2023 0:00
+1,shop_mvideo,453,30.06.2023 0:00
+1,shop_sitilink,90,30.06.2023 0:00
+2,shop_dns,734,30.06.2023 0:00
+2,shop_mvideo,753,30.06.2023 0:00
+2,shop_sitilink,1348,30.06.2023 0:00
+3,shop_dns,483,30.06.2023 0:00
+3,shop_mvideo,197,30.06.2023 0:00
+3,shop_sitilink,431,30.06.2023 0:00
+1,shop_dns,142,31.07.2023 0:00
+1,shop_mvideo,137,31.07.2023 0:00
+1,shop_sitilink,242,31.07.2023 0:00
+2,shop_dns,454,31.07.2023 0:00
+2,shop_mvideo,522,31.07.2023 0:00
+2,shop_sitilink,1042,31.07.2023 0:00
+3,shop_dns,55,31.07.2023 0:00
+3,shop_mvideo,118,31.07.2023 0:00
+3,shop_sitilink,205,31.07.2023 0:00
+1,shop_dns,915,31.08.2023 0:00
+1,shop_mvideo,296,31.08.2023 0:00
+1,shop_sitilink,173,31.08.2023 0:00
+2,shop_dns,1157,31.08.2023 0:00
+2,shop_mvideo,1361,31.08.2023 0:00
+2,shop_sitilink,819,31.08.2023 0:00
+3,shop_dns,85,31.08.2023 0:00
+3,shop_mvideo,82,31.08.2023 0:00
+3,shop_sitilink,271,31.08.2023 0:00
+1,shop_dns,459,30.09.2023 0:00
+1,shop_mvideo,606,30.09.2023 0:00
+1,shop_sitilink,466,30.09.2023 0:00
+2,shop_dns,717,30.09.2023 0:00
+2,shop_mvideo,521,30.09.2023 0:00
+2,shop_sitilink,1040,30.09.2023 0:00
+3,shop_dns,616,30.09.2023 0:00
+3,shop_mvideo,279,30.09.2023 0:00
+3,shop_sitilink,397,30.09.2023 0:00
+1,shop_dns,213,31.10.2023 0:00
+1,shop_mvideo,154,31.10.2023 0:00
+1,shop_sitilink,32,31.10.2023 0:00
+2,shop_dns,284,31.10.2023 0:00
+2,shop_mvideo,2,31.10.2023 0:00
+2,shop_sitilink,87,31.10.2023 0:00
+3,shop_dns,23,31.10.2023 0:00
+3,shop_mvideo,55,31.10.2023 0:00
+3,shop_sitilink,187,31.10.2023 0:00
